@@ -42,4 +42,3 @@ You can access the course on Udemy using this [link](https://www.udemy.com/cours
 ## License
 
 This project is licensed under the terms of the MIT license.
-Adding a direct link to your course in the README file makes it convenient for users to quickly access the course materials on Udemy.
